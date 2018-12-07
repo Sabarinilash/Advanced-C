@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1544192926 source:h:\mapadv-c\nilashc-map\list.c
+	<stdio.h>
+	"List.h"
+
+1544140706 h:\mapadv-c\nilashc-map\list.h
+	<stdlib.h>
+	"status.h"
+
+1544140729 h:\mapadv-c\nilashc-map\status.h
+
+1544140645 source:h:\mapadv-c\nilashc-map\map.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"map.h"
+
+1544140711 h:\mapadv-c\nilashc-map\map.h
+	"status.h"
+	"List.h"
+
+1544140658 source:h:\mapadv-c\nilashc-map\mapprocess.c
+	<stdio.h>
+	"List.h"
+	"map.h"
+	"string.h"
+
+1544140668 source:h:\mapadv-c\nilashc-map\status.c
+	"status.h"
+
